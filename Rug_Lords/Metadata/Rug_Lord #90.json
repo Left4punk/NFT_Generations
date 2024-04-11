@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #90",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Rug life shirt"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cap purple"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #1250",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Night sky"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Thobe black"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy hat"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

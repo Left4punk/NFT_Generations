@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #1115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rest"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Thobe white"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet blue"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #791",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Golden aba"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Meme glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet black"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Shield"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
